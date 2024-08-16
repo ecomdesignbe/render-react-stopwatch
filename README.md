@@ -10,4 +10,8 @@ In this first project, we will create a small app of a stopwatch.
 - RESET resets the counter to 0.
 - LAP displays the exact time when we clicked (the counter continues without stoping)
 
-In this project, you will be led to master : useEffect // useState // Being able to set the state from previous state
+In this project, you will be led to master :
+- useEffect
+- useState
+- Being able to set the state from previous state
+- Establish logic with setTimeout, etc.
